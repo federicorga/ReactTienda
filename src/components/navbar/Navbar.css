@@ -1,0 +1,20 @@
+.myNav {
+    width: 100%;
+    background: #061433;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 20;
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
+    overflow: hidden;
+    padding: 13px 8px;
+    /* background: url(../img/fondoNavbar.png);*/
+  }
+  
+  .liMenu {
+    justify-content: flex-end;
+  }
+  
+  

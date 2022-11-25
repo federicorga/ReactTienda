@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    margin: 0;
+    padding-top: 3px;
+    margin-left: 5px;
+    letter-spacing: 1px;
+    font-family: "Stick No Bills", sans-serif;
+  }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }

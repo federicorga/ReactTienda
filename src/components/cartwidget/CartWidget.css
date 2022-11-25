@@ -1,0 +1,51 @@
+.liCarrito {
+    display: flex;
+    margin-bottom: 0;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .liCarrito a {
+    position: relative;
+    height: 28px;
+    width: 28px;
+  }
+  
+  .iconCarrito {
+    display: flex;
+    background: url(../../../public/img/carritoicono.png);
+    background-size: cover;
+    background-position: center;
+    font-size: 18px;
+    text-align: center;
+    height: 28px;
+    width: 28px;
+    filter: invert(99%) sepia(4%) saturate(306%) hue-rotate(153deg) brightness(118%) contrast(90%);
+  
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  
+  .iconCarrito:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
+  }
+  
+  .iconCarrito:active {
+    transition: 0.3s;
+    transform: scale(0.9);
+  }
+  
+  .iconNumCarrito {
+
+    border-radius: 50%;
+ 
+    width: 14px;
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 9px;
+    
+  }

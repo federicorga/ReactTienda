@@ -1,0 +1,21 @@
+.imgPrincipal {
+    width: 45px;
+    height: 34px;
+    border-bottom-style: none;
+    background: transparent;
+  }
+  
+  .logo{
+    background: transparent;
+    border: none;
+  }
+
+  .logo:hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+  }
+
+  .logo:active{
+    transition: 0.5s;
+    transform: scale(0.9);
+  }
