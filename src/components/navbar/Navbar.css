@@ -14,7 +14,22 @@
   }
   
   .liMenu {
-    justify-content: flex-end;
+    text-align: left;
   }
   
+  .myBtnMenu img{
+    filter: invert(100%);
+  -webkit-filter: invert(100%);
+  -moz-filter: invert(100%);
   
+  }
+
+  .myBtnMenu :hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+  }
+  
+  .myBtnMenu{
+    --bs-btn-bg: none;
+    --bs-btn-border-color: none;
+  }

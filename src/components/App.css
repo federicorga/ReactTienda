@@ -13,3 +13,13 @@
     border: none;
 
 }
+.cardProductoss{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+

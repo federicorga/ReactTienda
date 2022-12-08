@@ -1,6 +1,6 @@
 import "./Navbar.css";
 import Logo from "./logo/Logo";
-import CartWidget from "../cartwidget/CartWidget";
+import CartWidget from "../CartWidget/CartWidget";
 import MyMenu from "./mymenu/MyMenu";
 
 const Navbar = () => {
@@ -19,7 +19,7 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon" />
         </button>
-        <div className="collapse navbar-collapse liMenu">
+        <div className="collapse navbar-collapse liMenu" id="navbarSupportedContent">
         <MyMenu/>
         </div>
       <CartWidget/>

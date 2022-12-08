@@ -19,3 +19,7 @@
     transition: 0.5s;
     transform: scale(0.9);
   }
+
+  .logo a{
+    text-decoration: none;
+  }
