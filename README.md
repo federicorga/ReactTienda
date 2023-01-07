@@ -51,6 +51,21 @@ Se trata de una tienda para la compra de Videojuegos, se puede visualizar todos 
 * Como adicional se introdujo el "Modo Oscuro".
 
 
+## Screenshot:
+
+![img1](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg1.png?raw=true)
+
+![img2](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg2.png?raw=true)
+
+![img3](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg3.png?raw=true)
+
+![img4](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg4.png?raw=true)
+
+![img5](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg5.png?raw=true)
+
+![img6](https://github.com/federicorga/ReactTienda/blob/main/docs/tiendaimg6.png?raw=true)
+
+
 
 
 
