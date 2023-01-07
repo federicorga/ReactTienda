@@ -2,10 +2,16 @@ import "./Navbar.css";
 import Logo from "./logo/Logo";
 import CartWidget from "../CartWidget/CartWidget";
 import MyMenu from "./mymenu/MyMenu";
+import BotonDarkMode from './BotonDarkMode/BotonDarkMode'
+
+//context
+import { useDarkModeContext } from '../../context/DarkModeContext';
 
 const Navbar = () => {
+  const {darkMode} = useDarkModeContext()
   return (
-  <nav className="navbar navbar-dark bg-dark navbar-expand-lg myNav">
+  
+     <nav className={`navbar navbar-expand-lg navbar-dark ${darkMode ? 'myNav' : 'bg-dark'}`}>
     <div className="container-fluid">
       <Logo/>
       <button
@@ -21,8 +27,10 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse liMenu" id="navbarSupportedContent">
         <MyMenu/>
+        <BotonDarkMode/>
         </div>
       <CartWidget/>
+     
     </div>
   </nav>
   );

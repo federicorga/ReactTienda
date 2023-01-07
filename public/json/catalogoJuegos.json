@@ -7,7 +7,7 @@
         "genero": "Acción",
         "tamano": "21 GB",
         "precio": "200.00",
-        "imagen": "img/juegos/asassinscreedVal.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2FasassinscreedVal.png?alt=media&token=f596ffc0-2379-4505-a8dc-33b797a2d31c",
         "descripcion": "Ponte en la piel de una leyenda vikinga en busca de gloria. Saquea a tus enemigos, haz prosperar tu asentamiento y consolida tu poder político. En Assassin’s Creed Valhalla, te pondrás en la piel de Eivor, una leyenda vikinga en busca de gloria. Explora la Inglaterra de los años oscuros mientras saqueas a tus enemigos, haces prosperar tu asentamiento y consolidas tu poder político.",
         "stock": 20
     },
@@ -20,7 +20,7 @@
         "genero": "Estrategia",
         "tamano": "3 GB",
         "precio": "299.00",
-        "imagen": "img/juegos/Ageofempires2hd.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2FAgeofempires2hd.png?alt=media&token=1b866846-2b42-4424-9cf2-c9d2da02bd4e",
         "descripcion": "El clásico Age of Empires II regresa al mercado con esta remasterización a la alta definición que incluye gráficos adaptados a las 1080p, texturas más definidas, así como mejores efectos de iluminación. El juego trae consigo además la expansión Conquerors.",
         "stock": 35
     },
@@ -32,7 +32,7 @@
         "genero": "Aventura",
         "tamano": "8 GB",
         "precio": "1199.99",
-        "imagen": "img/juegos/straytapa.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fstraytapa.png?alt=media&token=43849660-37cf-47d7-95a4-075613aa5375",
         "descripcion": "Perdido, solo y separado de su familia, un gato callejero debe desentrañar un antiguo misterio para escapar de una ciudad olvidada hace mucho tiempo.",
         "stock": 38
     },
@@ -44,7 +44,7 @@
         "genero": "Deportes",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/fifiastreet.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Ffifiastreet.png?alt=media&token=97b798db-49eb-47dd-8e37-ea3994696bdf",
         "descripcion": "De los creadores de la galardonada franquicia EA SPORTS FIFA, e inspirado en futbolistas callejeros de todo el mundo, FIFA Street es el juego de fútbol callejero más auténtico jamás creado. Disfruta de una experiencia única y divertida.s",
         "stock": 24
     },
@@ -56,7 +56,7 @@
         "genero": "Acción",
         "tamano": "15 GB",
         "precio": "790.90",
-        "imagen": "img/juegos/callofdutyww2.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fcallofdutyww2.png?alt=media&token=87babb6c-f263-4525-88bd-1a547d9c1118",
         "descripcion": "Call of Duty WWII regresa a sus orígenes, proponiendo al jugador una intensa y trepidante aventura de acción ambientada en la Segunda Guerra Mundial en la que no falta modo campaña y un potente multijugador online.",
         "stock": 40
     },
@@ -68,7 +68,7 @@
         "genero": "Terror",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/thelastofus.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fthelastofus.png?alt=media&token=a6ede253-ca75-482f-b2fd-714d525052d5",
         "descripcion": "Acción con tintes de survival horror que nos presenta un escenario en el que la población ha sido diezmada por una terrible plaga.",
         "stock": 16
     },
@@ -80,7 +80,7 @@
         "genero": "Acción",
         "tamano": "8 GB",
         "precio": "1199.99",
-        "imagen": "img/juegos/gta5.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fgta5.png?alt=media&token=c501a497-afaa-425d-adcd-841cc5088355",
         "descripcion": "Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven envueltos en algunos de los elementos más aterradores y trastornados del inframundo criminal, el gobierno de EE. UU. Y la industria del entretenimiento, deben llevar a cabo una serie de robos peligrosos para sobrevivir.",
         "stock": 10
     },
@@ -92,7 +92,7 @@
         "genero": "Estrategia",
         "tamano": "3 GB",
         "precio": "299.00",
-        "imagen": "img/juegos/hitmancajaacero.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fhitmancajaacero.png?alt=media&token=02710568-2be5-47e1-9dcc-c7b5c8fb40ec",
         "descripcion": "El Agente 47 debe unir fuerzas con su amigo perdido hace mucho tiempo Lucas Gray para eliminar a los socios de Providence.",
         "stock": 7
     },
@@ -104,19 +104,19 @@
         "genero": "Aventura",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/godofwar.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fgodofwar.png?alt=media&token=73751320-f678-419d-b70f-aee5f334b17e",
         "descripcion": "Se centra en la historia de la mitología nórdica, a diferencia de los títulos anteriores, que se ubicaban en la Antigua Grecia y su mitología.",
         "stock": 9
     },
     {
         "id": 4,
         "nombreJuego": "Counter-Strike GO",
-        "plataforma": "Español",
-        "idioma": "Acción",
-        "genero": 5,
+        "plataforma": "PC",
+        "idioma": "Español",
+        "genero": "Acción",
         "tamano": "3 GB",
         "precio": "299.00",
-        "imagen": "img/juegos/csgo.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fcsgo.png?alt=media&token=a8458f93-8dee-4aa8-9676-66dcf3aa6c8b",
         "descripcion": "Videojuego de disparos en primera persona desarrollado por Valve Corporation y Hidden Path Entertainment.",
         "stock": 7
     },
@@ -128,7 +128,7 @@
         "genero": "Aventura",
         "tamano": "15 GB",
         "precio": "790.90",
-        "imagen": "img/juegos/halflife.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fhalflife.png?alt=media&token=9b03033f-6b95-46b2-8cef-b3132a815b4d",
         "descripcion": "Transcurre dos décadas después de la historia del primer Half Life. Gordon Freeman despierta de su estado de hibernación y se convierte en el símbolo de la resistencia humana frente a la Alianza.",
         "stock": 10
     },
@@ -140,7 +140,7 @@
         "genero": "Terror",
         "tamano": "15 GB",
         "precio": "790.90",
-        "imagen": "img/juegos/resitenevil2.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fresitenevil2.png?alt=media&token=a228dba0-07bf-495c-b547-dc9c283ae489",
         "descripcion": "Raccoon City, la ciudad norteamericana de la serie de juegos de Capcom, controlada por la corporación Umbrella y en la que se ha producido una brecha de seguridad biológica que ha convertido a todos sus habitantes en zombis y criaturas mutantes.",
         "stock": 5
     },
@@ -152,7 +152,7 @@
         "genero": "RPG",
         "tamano": "8 GB",
         "precio": "1199.99",
-        "imagen": "img/juegos/darksouls3.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fdarksouls3.png?alt=media&token=6c4375a7-2767-46c6-b6af-7e355b6a27c6",
         "descripcion": "Acción en tercera persona en el que nos enfrentamos a diversos enemigos y peligros en los escenarios.",
         "stock": 10
     },
@@ -164,7 +164,7 @@
         "genero": "Aventura",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/reddeadredeption2.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Freddeadredeption2.png?alt=media&token=363d60eb-ea13-4f5b-bd31-c896f99c6a45",
         "descripcion": "Tras un asalto fallido en el pueblo de Blackwater, Arthur Morgan y la pandilla de Van der Linde se ven forzados a huir.",
         "stock": 5
     },
@@ -176,7 +176,7 @@
         "genero": "Acción",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/cyberpunk.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fcyberpunk.png?alt=media&token=9db03dd0-39a9-4be5-8ee1-bc529f98550b",
         "descripcion": "una historia de acción y aventura en mundo abierto ambientada en Night City, una megalópolis obsesionada con el poder, el glamur y la modificación corporal.",
         "stock": 9
     },
@@ -188,7 +188,7 @@
         "genero": "Acción",
         "tamano": "8 GB",
         "precio": "1199.99",
-        "imagen": "img/juegos/battlefield.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fbattlefield.png?alt=media&token=6d290298-363c-44bc-a16c-476d76119e12",
         "descripcion": "Desde las ciudades de Seúl hasta los desiertos de Egipto, cada mapa ofrece una experiencia única según el entorno natural.",
         "stock": 20
     },
@@ -200,7 +200,7 @@
         "genero": "Aventura",
         "tamano": "15 GB",
         "precio": "790.90",
-        "imagen": "img/juegos/shadowofwar.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fshadowofwar.png?alt=media&token=c2d6b890-ff76-4574-a482-005e4cd53e6e",
         "descripcion": "El jugador toma el control de Talion, un montaraz de Gondor que posee varias habilidades atléticas y de combate.",
         "stock": 30
     },
@@ -212,7 +212,7 @@
         "genero": "Terror",
         "tamano": "3 GB",
         "precio": "299.00",
-        "imagen": "img/juegos/SCP.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2FSCP.png?alt=media&token=2f977c6d-eda9-4717-8abd-43479deb80e7",
         "descripcion": "Durante una brecha de contención en una instalación remota de la fundación SCP, muchas de las anomalías han escapado – y no tienen intenciones pacíficas.",
         "stock": 16
     },
@@ -224,7 +224,7 @@
         "genero": "Aventura",
         "tamano": "3 GB",
         "precio": "299.00",
-        "imagen": "img/juegos/grinfandango.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fgrinfandango.png?alt=media&token=3221ee34-63e1-4fc5-b6e5-5eb887bd680a",
         "descripcion": "Cuenta una épica historia que abarca cuatro años en la vida (o muerte) de Manny Calavera, agente de viajes para muertos.",
         "stock": 21
     },
@@ -236,7 +236,7 @@
         "genero": "Acción",
         "tamano": "32.4 GB",
         "precio": "10999.99",
-        "imagen": "img/juegos/dragonballkakarot.png",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-mercadpagina-2022.appspot.com/o/juegos%2Fdragonballkakarot.png?alt=media&token=55dbaac9-c7db-48dc-9067-3f2350e779a2",
         "descripcion": "El jugador puede luchar contra oponentes y realizar actividades como pescar, recolectar orbes Z",
         "stock": 22
     }

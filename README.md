@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# React - Proyecto Final
+_Comisión 34825 - CoderHouse_
+## E-Commerce Gamer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Tienda de Videojuegos_
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Autor
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [@Federico Garea](https://www.linkedin.com/in/federicogarea/)
 
-### `npm test`
+![tienda](https://cdn-icons-png.flaticon.com/512/5847/5847540.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Construido con:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Lenguaje de Programación
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [React](https://es.reactjs.org/docs/getting-started.html) - Framework JavaScript
+  
+* [Bootstrap](https://getbootstrap.com/) - Biblioteca
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [React-Toastify](https://www.npmjs.com/package/react-toastify) - React-Toastify
+* [Firestore](https://firebase.google.com/docs) - NoSQL Database
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Pre-Requerimientos :🔧
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Para poder utilizar la aplicacion se deben instalar las siguientes dependencias:
 
-## Learn More
+```
+npm i
+npm i react-toastify
+npm i firebase
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Descripción del proyecto:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Se trata de una tienda para la compra de Videojuegos, se puede visualizar todos los juegos de la tienda o filtrar por categoría mediante los iconos que se encuentran en el NavBar.
 
-### Code Splitting
+* Al hacer click en "Ver Producto" de cada juego, se encontrará la descripción del mismo, así como también el stock disponible, este se irá reduciendo con la cantidad de compras hasta llegar a 0, una vez llegado a 0 el juego se retira de la parte visual de la página, para que los usuarios no puedan seguir comprando. Estas características están vinculadas con el catálogo que se encuentra subido a Firebase, por lo que si alguno de los juegos se encuentra en 0, al modificar su cantidad en la BD este volverá a visualizarse.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* En el carrito, se puede eliminar productos de forma individual, a demás de poder seguir comprando.
 
-### Analyzing the Bundle Size
+* En el formulario final, no se puede finalizar compra sin colocar un nombre como mínimo. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Como adicional se introdujo el "Modo Oscuro".
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

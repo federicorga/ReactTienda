@@ -1,3 +1,4 @@
+/*
 //Esta funcion consulta el catalogo json y retorna los productos
 //Consulta asincronica (no se cuanto tiempo me va a llevar esa consulta por eso es asincronica)
 // esta funcion debe ser llamada en los componentes que quieran consultar a la base de datos.
@@ -12,5 +13,9 @@ const consultarBDD= async (ruta)=>{
 } 
 
 export {consultarBDD};
+
+
+
+*/
 
 

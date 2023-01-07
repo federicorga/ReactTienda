@@ -13,13 +13,55 @@
     border: none;
 
 }
-.cardProductoss{
+
+.card{
+  width: 68rem;
+  margin-top: 10px;
+}
+
+.cardio{
+  display: flex;
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cardProductos{
   display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: flex-start;
+    justify-content: space-evenly;
+   
     margin-left: 200px;
     margin-right: 200px;
 }
 
+.textoA{
+  font-size: 1.2rem;
+}
+
+.textoB{
+  color: #bf0808;
+
+}
+
+.tacho:hover{
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+
+.tacho:active{
+  transition: 0.5s;
+  transform: scale(0.9);
+}
+
+.cardBodyDark {
+  background-color: hsl(0, 0%, 33%);
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+.darkMode {
+  background-color:black;
+  color:gainsboro;
+}
