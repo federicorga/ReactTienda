@@ -10,7 +10,7 @@ const CartWidget = () => {
         <li>
         
         <Link className='nav-item' to={"/Cart"}><button className="btnCarritoCompra" title="Carrito de Compra">
-       <span className="iconCarrito" />
+       <img src="../img/carritoicono.png" alt="icono" width={30} className="iconCarrit" />
         </button></Link>
         
         </li>
